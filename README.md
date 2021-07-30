@@ -20,4 +20,4 @@ In my spare time, I love learning about new technologies. Besides programming, I
 
 
 ![Geeta's github stats](https://github-readme-stats.vercel.app/api?username=geetakumri&show_icons=true&theme=tokyonight)
-![Geeta's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=geetakumri&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight)
+![Geeta's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=geetakumri&show_icons=true&theme=tokyonight)
