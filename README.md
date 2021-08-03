@@ -4,7 +4,7 @@
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:geeta.kumari06@outlook.com)
 <br/>
 
-Hi, My name is Geeta Kumari. I am an AI/ML practitioner. 
+Hi, My name is Geeta Kumari. I am an AI/ML practitioner. I love automating boring stuffs with Python.
 
 I'm a proficient Python and Java.
 In my spare time, I love learning about new technologies. Besides programming, I enjoy music and reading books.
