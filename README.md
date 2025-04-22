@@ -6,7 +6,7 @@
 
 Hi, My name is Geeta Kumari.I love to explore new technologies.
 
-I'm  proficient in Python, SQL, Power BI, R and MS Excel.
+I am  proficient in Python, SQL, Power BI, R and MS Excel.
 In my spare time, I love learning about new technologies. Besides programming, I enjoy music and reading books.
 
   
